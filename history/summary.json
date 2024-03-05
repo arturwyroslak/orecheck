@@ -36,22 +36,24 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
-    "slug": "hacker-news",
+    "name": "test",
+    "url": "https://dsadsada.ore.edu.pl",
+    "icon": "https://icons.duckduckgo.com/ip3/dsadsada.ore.edu.pl.ico",
+    "slug": "test",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "15.63%",
+    "uptimeDay": "15.63%",
+    "uptimeWeek": "15.63%",
+    "uptimeMonth": "15.63%",
+    "uptimeYear": "15.63%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-05": 0
+    }
   },
   {
     "name": "Test Broken Site",
