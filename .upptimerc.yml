@@ -3,8 +3,8 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: ORE
+    url: https://www.ore.edu.pl
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
@@ -30,7 +30,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/arturwyroslak/orecheck
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
